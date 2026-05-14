@@ -19,7 +19,7 @@ const OPTIONS: Option[] = [
     title: "Opción 2",
     description: "Ramas",
     message:
-      "Una rama es una línea de desarrollo independiente. Puedes crear, fusionar y eliminar ramas sin afectar a main.",
+      "Conflicto desde Dev.",
     featureFlag: false,
   },
   {
