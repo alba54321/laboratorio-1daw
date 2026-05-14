@@ -17,7 +17,7 @@ const OPTIONS: Option[] = [
   {
     id: 2,
     title: "Opción 2",
-    description: "Ramas",
+    description: "Ramas y merges",
     message:
       "Conflicto desde Dev.",
     featureFlag: false,
